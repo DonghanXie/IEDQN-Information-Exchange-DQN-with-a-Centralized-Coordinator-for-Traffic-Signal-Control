@@ -40,4 +40,4 @@ If you find this repo is useful in your research, please cite our paper "[IEDQN:
 
 ## Aknowledgement
 
-This repo is based on the environment framework in repo [MA2C](https://github.com/cts198859/deeprl_signal_control).
+This repo is based on the environment framework implemented in repo [MA2C](https://github.com/cts198859/deeprl_signal_control).
